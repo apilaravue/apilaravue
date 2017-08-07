@@ -55,7 +55,7 @@ If you are not familiar with vuejs, you should check their documentation at http
 If you are not familiar with Laravel, you should check their documentation at https://laravel.com/docs/5.4
 
 ## Server
-If you are not familiar with Laravel, you should check their documentation at https://nodejs.org/api/http.html
+If you are not familiar with Nodejs, you should check their documentation at https://nodejs.org/api/http.html
 you can also check the example at https://nodejs.org/api/synopsis.html
 Or quick start with W3schools at https://www.w3schools.com/nodejs/nodejs_http.asp
 
