@@ -6,31 +6,32 @@ This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backen
 1. Clone the repository.
 2. Download and Intall nodejs for your OS from https://nodejs.org/en/download/
 3. Install redis
-    Linux:
+
+   ### Linux:
     
-     `$ wget http://download.redis.io/releases/redis-4.0.1.tar.gz
-     
-      $ tar xzf redis-4.0.1.tar.gz
+         `$ wget http://download.redis.io/releases/redis-4.0.1.tar.gz
+
+          $ tar xzf redis-4.0.1.tar.gz
+
+          $ cd redis-4.0.1
+
+          $ make
+          `
       
-      $ cd redis-4.0.1
-      
-      $ make
-      `
-      
-    Mac:
+   ### Mac:
     
-     if you are not having homebrew, intall it from https://brew.sh/ 
+         if you are not having homebrew, intall it from https://brew.sh/ 
+
+         Run `$ brew install redis`
      
-     Run `$ brew install redis`
-     
-    Windows:
+   ### Windows:
     
-      One click Redis install as a Windows service:
-      https://github.com/rgl/redis/downloads
-      
-      Download and run the top .exe (ignore the "download as zip" button)
-      
-      Edit: For the latest versions of Redis for Windows look at MSOpenTech/redis. See Todd Menier's answer for more information.
+          One click Redis install as a Windows service:
+          https://github.com/rgl/redis/downloads
+
+          Download and run the top .exe (ignore the "download as zip" button)
+
+          Edit: For the latest versions of Redis for Windows look at MSOpenTech/redis. See Todd Menier's answer for more information.
 4. start redis server Run `redis/server` and do not close the terminal window. Linux:  `src/redis-server`
 5. Open a new terminal window and CD to apilaravue/server.
 6. Run `npm install`. This installs all dependencies.
