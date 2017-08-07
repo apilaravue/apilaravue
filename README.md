@@ -1,3 +1,10 @@
+[![Latest Stable Version](https://poser.pugx.org/apilaravue/apilaravue/v/stable)](https://packagist.org/packages/apilaravue/apilaravue)
+[![Total Downloads](https://poser.pugx.org/apilaravue/apilaravue/downloads)](https://packagist.org/packages/apilaravue/apilaravue)
+[![Latest Unstable Version](https://poser.pugx.org/apilaravue/apilaravue/v/unstable)](https://packagist.org/packages/apilaravue/apilaravue)
+[![License](https://poser.pugx.org/apilaravue/apilaravue/license)](https://packagist.org/packages/apilaravue/apilaravue)
+[![Monthly Downloads](https://poser.pugx.org/apilaravue/apilaravue/d/monthly)](https://packagist.org/packages/apilaravue/apilaravue)
+[![Daily Downloads](https://poser.pugx.org/apilaravue/apilaravue/d/daily)](https://packagist.org/packages/apilaravue/apilaravue)
+[![composer.lock](https://poser.pugx.org/apilaravue/apilaravue/composerlock)](https://packagist.org/packages/apilaravue/apilaravue)
 # ApiLaraVue
 This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.
 
