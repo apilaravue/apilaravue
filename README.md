@@ -1,5 +1,5 @@
 # ApiLaraVue
-This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors that, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.
+This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.
 
 ## Installing
 
