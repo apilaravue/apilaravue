@@ -9,20 +9,20 @@ This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backen
 
    ### Linux:
     
-         `$ wget http://download.redis.io/releases/redis-4.0.1.tar.gz
+          $ wget http://download.redis.io/releases/redis-4.0.1.tar.gz
 
           $ tar xzf redis-4.0.1.tar.gz
 
           $ cd redis-4.0.1
 
           $ make
-          `
+          
       
    ### Mac:
     
          if you are not having homebrew, intall it from https://brew.sh/ 
 
-         Run `$ brew install redis`
+         Run $ brew install redis
      
    ### Windows:
     
