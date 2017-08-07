@@ -58,3 +58,16 @@ If you are not familiar with Laravel, you should check their documentation at ht
 If you are not familiar with Laravel, you should check their documentation at https://nodejs.org/api/http.html
 you can also check the example at https://nodejs.org/api/synopsis.html
 Or quick start with W3schools at https://www.w3schools.com/nodejs/nodejs_http.asp
+
+## Contributing
+
+Thank you for considering contributing to the ApiLaraVue framework.
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within ApiLaraVue, please send an e-mail to Kamga Simo Junior at kamgasimojunior@gmail.com. All security vulnerabilities will be promptly addressed.
+
+## License
+
+The ApiLaraVue framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
