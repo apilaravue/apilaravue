@@ -4,7 +4,7 @@ This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backen
 ## Installing
 
 1. Clone the repository.
-2. Download and Intall nodejs for your OS from # https://nodejs.org/en/download/
+2. Download and Intall nodejs for your OS from https://nodejs.org/en/download/
 3. Install redis
     Linux:
      `$ wget http://download.redis.io/releases/redis-4.0.1.tar.gz
