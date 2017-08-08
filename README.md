@@ -49,6 +49,9 @@ This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backen
 11. Run `php artisan key:generate`. This generates a secure cipher key for encrypting your data.
 12. Create a database named `__laravelvue`
 13. Run `php artisan migrate --seed`
+14. Run `php artisan passport:install`
+15. Copy the `client secret` of `Client ID: 2` displayed in the terminal
+16. Edit the file `frontend/src/packages/config/backendConnection.js` and change `client_secret` to what you have copied and save the file
 14. Run `php artisan serve`. This serves your application to the browser. You can also use Homestead, LAMP, WAMP, etc.
 15. Open a new terminal window and CD to apilaravue/frontend.
 16. Run `npm install`. This installs all of Vue's dependencies.
