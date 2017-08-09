@@ -1,9 +1,28 @@
+<p align="center"><a href="https://apilaravue.github.io" target="_blank"><img src="https://apilaravue.github.io/apilaravue-slogan.png"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/apilaravue/apilaravue"><img src="https://travis-ci.org/apilaravue/apilaravue.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/apilaravue/apilaravue"><img src="https://poser.pugx.org/apilaravue/apilaravue/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/apilaravue/apilaravue"><img src="https://poser.pugx.org/apilaravue/apilaravue/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/apilaravue/apilaravue"><img src="https://poser.pugx.org/apilaravue/apilaravue/license.svg" alt="License"></a>
+</p>
+
 # ApiLaraVue
 This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.
 
+## Learning ApiLaravue
+Before starting with ApiLaravue 1.0, make sure you have some knowledge on:
+- Laravel from the official [Laravel documentation](https://laravel.com/docs).
+- Vuejs from the official [Vuejs documentation](https://vuejs.org/v2/guide/)
+- Nodejs from the official [Nodejs documentation](https://nodejs.org/api/http.html)
+
+If you are up to the above standard, you can learn from
+- our website [ApiLaravue on gihub.io](https://apilaravue.github.io/)
+- or from our [docs repository](https://github.com/apilaravue/docs)
+
 ## Installing
 
-1. Clone the repository.
+1. Run `$ composer create-project apilaravue/apilaravue`.
 2. Download and Intall nodejs for your OS from https://nodejs.org/en/download/
 3. Install redis
 
@@ -42,6 +61,9 @@ This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backen
 11. Run `php artisan key:generate`. This generates a secure cipher key for encrypting your data.
 12. Create a database named `__laravelvue`
 13. Run `php artisan migrate --seed`
+14. Run `php artisan passport:install`
+15. Copy the `client secret` of `Client ID: 2` displayed in the terminal
+16. Edit the file `frontend/src/packages/config/backendConnection.js` and change `client_secret` to what you have copied and save the file
 14. Run `php artisan serve`. This serves your application to the browser. You can also use Homestead, LAMP, WAMP, etc.
 15. Open a new terminal window and CD to apilaravue/frontend.
 16. Run `npm install`. This installs all of Vue's dependencies.
