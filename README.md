@@ -1,10 +1,10 @@
 <p align="center"><a href="https://apilaravue.github.io" target="_blank"><img src="https://apilaravue.github.io/apilaravue-slogan.png"></a></p>
 
 <p align="center">
-<a href="https://travis-ci.org/apilaravue/framework"><img src="https://travis-ci.org/apilaravue/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/license.svg" alt="License"></a>
+<a href="https://travis-ci.org/apilaravue/apilaravue"><img src="https://travis-ci.org/apilaravue/apilaravue.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/apilaravue/apilaravue"><img src="https://poser.pugx.org/apilaravue/apilaravue/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/apilaravue/apilaravue"><img src="https://poser.pugx.org/apilaravue/apilaravue/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/apilaravue/apilaravue"><img src="https://poser.pugx.org/apilaravue/apilaravue/license.svg" alt="License"></a>
 </p>
 # ApiLaraVue
 This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.
