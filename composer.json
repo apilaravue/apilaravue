@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6.4",
-        "apilaravue/framework": "1.0.*"
+        "php": ">=5.6.4"
     },
     "autoload": {
         
