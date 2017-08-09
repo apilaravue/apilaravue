@@ -10,7 +10,7 @@ This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backen
 
 ## Installing
 
-1. Clone the repository OR Run `$ composer create-project apilaravue/apilaravue`.
+1. Run `$ composer create-project apilaravue/apilaravue`.
 2. Download and Intall nodejs for your OS from https://nodejs.org/en/download/
 3. Install redis
 
