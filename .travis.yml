@@ -1,2 +1,2 @@
 language: php
-script: phpunit --configuration phpunit.xml
+script: phpunit
