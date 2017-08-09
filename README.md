@@ -1,12 +1,23 @@
-[![Latest Stable Version](https://poser.pugx.org/apilaravue/apilaravue/v/stable)](https://packagist.org/packages/apilaravue/apilaravue)
-[![Total Downloads](https://poser.pugx.org/apilaravue/apilaravue/downloads)](https://packagist.org/packages/apilaravue/apilaravue)
-[![Latest Unstable Version](https://poser.pugx.org/apilaravue/apilaravue/v/unstable)](https://packagist.org/packages/apilaravue/apilaravue)
-[![License](https://poser.pugx.org/apilaravue/apilaravue/license)](https://packagist.org/packages/apilaravue/apilaravue)
-[![Monthly Downloads](https://poser.pugx.org/apilaravue/apilaravue/d/monthly)](https://packagist.org/packages/apilaravue/apilaravue)
-[![Daily Downloads](https://poser.pugx.org/apilaravue/apilaravue/d/daily)](https://packagist.org/packages/apilaravue/apilaravue)
-[![composer.lock](https://poser.pugx.org/apilaravue/apilaravue/composerlock)](https://packagist.org/packages/apilaravue/apilaravue)
+<p align="center"><a href="https://apilaravue.github.io" target="_blank"><img src="https://apilaravue.github.io/apilaravue-slogan.png"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/apilaravue/framework"><img src="https://travis-ci.org/apilaravue/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/apilaravue/framework"><img src="https://poser.pugx.org/apilaravue/framework/license.svg" alt="License"></a>
+</p>
 # ApiLaraVue
 This is a framwork for large web projects. ApiLaravue uses Laravel 5.4 as backend integrated with laravel passport and laravel cors, Vuejs as frontend and the two communicate via API calls. It also include redis already installed and configured in the backend and frontend, a node server already created and configure for realtime communication and some vue packages are also install in the frontend such as vue-router, vue-resource, vue-socket.io, and sweetalert.
+
+## Learning ApiLaravue
+Before starting with ApiLaravue 1.0, make sure you have some knowledge on:
+- Laravel from the official [Laravel documentation](https://laravel.com/docs).
+- Vuejs from the official [Vuejs documentation](https://vuejs.org/v2/guide/)
+- Nodejs from the official [Nodejs documentation](https://nodejs.org/api/http.html)
+
+If you are up to the above standard, you can learn from
+- our website [ApiLaravue on gihub.io](https://apilaravue.github.io/)
+- or from our [docs repository](https://github.com/apilaravue/docs)
 
 ## Installing
 
