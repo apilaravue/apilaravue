@@ -84,6 +84,7 @@ you can also check the example at https://nodejs.org/api/synopsis.html
 Or quick start with W3schools at https://www.w3schools.com/nodejs/nodejs_http.asp
 
 ## Contributing
+- [How to install Node.js complete guide](https://www.scaler.com/topics/javascript/install-node-js/)
 
 Thank you for considering contributing to the ApiLaraVue framework.
 
