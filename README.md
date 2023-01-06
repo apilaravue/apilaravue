@@ -83,6 +83,8 @@ you can also check the example at https://nodejs.org/api/synopsis.html
 
 Or quick start with W3schools at https://www.w3schools.com/nodejs/nodejs_http.asp
 
+For a more detailed knowledge you can also Check at https://www.scaler.com/topics/nodejs/
+
 ## Contributing
 
 Thank you for considering contributing to the ApiLaraVue framework.
